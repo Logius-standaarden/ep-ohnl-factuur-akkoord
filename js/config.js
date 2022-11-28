@@ -8,7 +8,8 @@ var respecConfig = {
     pubDomain: "ep",
     shortName: "ohnl-factuur-akkoord",
     publishDate: "2022-11-28",
-    publishVersion: "0.1.0",
+    // Pas aanpassen als we een eerste te publiceren versie hebben.
+    publishVersion: "0.0.1",
     title: "OHNL Factuur Akkoord",
     // previousPublishVersion: "(none)",
     // previousPublishDate: "(none)",
