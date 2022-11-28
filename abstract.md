@@ -1,1 +1,1 @@
-Tekst
+Dit is de samenvattende tekst.
